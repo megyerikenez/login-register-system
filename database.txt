@@ -1,0 +1,6 @@
+megyerikenez
+admin
+
+
+IT MAY NOT CREATE HERE THE USERINFO
+CHECK BUILD FOLDER!!!
